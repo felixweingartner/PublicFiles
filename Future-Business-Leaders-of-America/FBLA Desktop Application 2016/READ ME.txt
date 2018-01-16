@@ -1,0 +1,67 @@
+Welcome to Felix & Leon Weingartners Desktop Application 2016!
+Any problems, questions, or concerns please feel free to contact us at felix.weingartner@suusuccess.org
+All code and documentation of this program are under copyright, all rights reserved
+(Tip- Have this file on word wrap for easier reading, and highlight to keep track of your progress)
+
+To begin:
+-I would recomend to keep all of these files in the unzipped folder, but moving them on your computer is fine, just remember where you put them
+-The DesktopApplicationCode.pdf file has all the code for you to view whenever you'd like
+
+System Requirments
+-4 gb of ram (only max 50 mb will be utilized)
+-Windows 7 or higher (older versions could work, but have never been tested)
+-20 mb of space will be used default, have extra for additional reports you create ;)
+-Microsoft Excel 2003 or newer (we assume you have it for specifications desire .xls friendly formatting)
+
+Things to note
+-upon startup of application, a directory called fblamanager in your C drive will be created holding two database files in .xls format
+-Loading can sometimes take a few seconds
+these files are read-write password protected, reason is so unauthorized access cant reach them, and cause issues with the program. 
+Note-If for some reason you wish to examine the contents of these two files, do so when the program is not running.  
+The password for both files is lambda3b
+(IMPORTANT READ THIS: The account key is "fblaRocks!" when creating a new account)
+All reports are created and viewed default in .xls format, upon specification request
+
+
+Lets run through the application
+-(Now the flow of the application is pretty straightforward so you can just run through it yourself, but you can follow these steps if you want)-
+-Run the FBLAManager.exe
+wait for loading screen to finish
+-Now on the login screen, click create account
+-use the key: "fblaRocks!"  And then fill the additional fields as desired(remember your username and password or youll  have to do dis again)
+-Now login in using your created credentials
+-Upon the home screen, you have 4 options: Add student, Edit student, Help, View Report.  Lets do add student
+-Enter "bob" as the first name
+-Enter "joe" as the last name
+-Enter "12" as the grade
+-Finish filling the rest to anything, you will get an error message if you put letters in the age field or something
+-click save
+You can add a couple more if you want, this will make testing the awesome report system more cool
+-Now you should be at the home screen, click Edit student
+-Enter "bob" as the first name
+-Enter "joe" as the last name
+-click find
+-information on bob joe will be brought up, change bob's age field to 10 (you can change other stuff, just leave the first and last for this demo)
+-click submit
+-Now back at the home screen, click "view report"
+-There are three options, click "new report"
+-Here is a fully customizable report system!(the crown jewl of this app) 
+-Select student id, first, last, grade and others you desire.
+-set the two combo boxes by selecting Owes/DoesntOwe and Active/non active, viewing them in the report is up to you
+-click the check mark for grade, then enter in 12 (I know bob is age 10 now, just do it)
+-select view
+-then click submit, you should get an error saying no results, thats because our only student did not pass the filter, hes 10 not 12
+-Change the grade filter field to 10
+-Now click submit, you should get a report containing bob joe and only the column fields you selected!
+You also have the option to print, and to save upon report view
+You can view the help screen by pressing help button
+
+Feel More than welcome to test this out to its full use!  Add more users! Edit more users! And use the fully optimal customizable report system to display accurate functional reports!
+
+
+How To: If you want to remove this application
+----------------------------------------------
+note-any reports you have created and saved is your job to get rid of if you want to
+-go to help on the home screen, then click twice on the remove files button
+Note-remove files will remove the directory and all database files in the directory fblamanager.  The program can still run, just all your previously saved student information will be deleted.
+-The rest of the remaing files are the .exe and the project folder to remove at the click of a button.  Hope you enjoyed using this application! :)
