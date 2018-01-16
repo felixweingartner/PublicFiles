@@ -1,6 +1,8 @@
-Due to github restrictions, the actual game was too big to push to the repo. I am working on adding an ftp link.
+Due to github restrictions, the actual game was too big to push to the repo. 
 
-Welcome to Felix & Leon Weingartners Game Development and simulation programming!
+Go to https://www.dropbox.com/s/8t9fand15fcdhiv/FBLA%20Project%20Lost%20Island.zip?dl=0 to download the game
+
+Welcome to Felix & Leon Weingartner's Game Development and simulation programming game!
 Any problems, questions, or concerns please feel free to contact us at felix.weingartner@suusuccess.org
 All code and documentation of this program are under copyright, all rights reserved
 (Note- Have this file on word wrap for easier reading, and highlight to keep track of your progress)
