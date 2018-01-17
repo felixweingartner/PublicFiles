@@ -1,4 +1,4 @@
-![](p1.JPG)
+![](felixweingartner.github.com/PublicFiles/Arduino-Camera-2017/p1.JPG)
 
 This project was to get the ov7670 camera recording with a standard arduino.
 
