@@ -1,3 +1,6 @@
+![](g4.PNG)
+![](g2.PNG)
+
 Due to github restrictions, the actual game was too big to push to the repo. 
 
 Go to https://www.dropbox.com/s/8t9fand15fcdhiv/FBLA%20Project%20Lost%20Island.zip?dl=0 to download the game

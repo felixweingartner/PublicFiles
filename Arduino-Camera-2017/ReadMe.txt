@@ -1,3 +1,5 @@
+![](p1.JPG)
+
 This project was to get the ov7670 camera recording with a standard arduino.
 
 Please not a majority of the code is based on open source material.

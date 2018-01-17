@@ -1,3 +1,5 @@
+![](p1.JPG)
+
 This project qualified to present at the Festival of Excellence at the University of Utah.
 It is an entry machine learning project to predict students grades based on procrastination levels of turned in assignments.
 

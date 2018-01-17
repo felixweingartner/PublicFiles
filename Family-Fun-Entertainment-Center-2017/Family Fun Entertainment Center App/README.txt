@@ -3,13 +3,7 @@ Hello sir/madam,
 This project is for the desktop programming category - FBLA.
 The user interface should be simple to navigate, but instructions are provided in the help window.
 The project was created using Microsoft Visual Studio 2015 Enterprise, and no templates were used.  The project code can be located as pdf files in the folder.
-Note that all information is saved on a Microsoft Sql Server Database, so internet connection is required to save and edit information.
-
-If you are familiar with MS Sql Server and would like to connect to it, here are the credentials: (ignore the quotes)
-DataSource = "mssql3.gear.host"
-UserID = "phoenix"
-Password = "quido#"
-//If you are not familiar but would like to connect to the server, download the Microsoft Sql Managment Studio at https://go.microsoft.com/fwlink/?LinkID=840946, open the application, enter in the credentials I provided above, and then click on "phoenix', then 'tables', and there you will see all the database tables.  This is not required to test the application, but if you choose to do this, please avoid changing any configurations and only examine the database tables associated with the project.  This server is being used for other things.  If you have any questions on this, feel free to contact me.
+Note that all information is saved on a Microsoft Sql Server Database, so an internet connection is required to save and edit information.
 
 System Requirements:
 Best bet is to run on Windows 8 or Windows 10, but Windows 7 should work as well.

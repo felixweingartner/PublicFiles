@@ -1,3 +1,5 @@
+![](g1.PNG)
+
 This is a 2D Top-Down strategy game where you, the player, are trying to escape a randomly generated dungeon.
 The complexity of the randomly generated dungeon is based on the level.
 The objective is to reach the hidden relic in the fastest time, but its not that simple.

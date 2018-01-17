@@ -1,3 +1,5 @@
+![](a1.PNG)
+![](homePage.PNG)
 This project is a desktop application for a Family Fun Entertainment Center business.
 It allows for an intuitive way to manage client funds and information print reports.
 The best feature of this application is the SQL server functionality, so multiple locations can be integrated.
