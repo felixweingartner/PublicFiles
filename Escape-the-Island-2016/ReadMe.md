@@ -1,8 +1,7 @@
 ![escape-the-island-gameplay](https://user-images.githubusercontent.com/35469554/35026027-dd82e3ae-fb05-11e7-92e6-64774193095c.png)
 
 Due to github restrictions, the actual game was too big to push to the repo. 
-
-Go to https://www.dropbox.com/s/8t9fand15fcdhiv/FBLA%20Project%20Lost%20Island.zip?dl=0 to download the game
+I am uploading it now, please check tomorrow for the file link here.
 
 Welcome to Felix & Leon Weingartner's Game Development and simulation programming game!
 Any problems, questions, or concerns please feel free to contact us at felix.weingartner@suusuccess.org
