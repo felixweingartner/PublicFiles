@@ -1,7 +1,8 @@
 ![escape-the-island-gameplay](https://user-images.githubusercontent.com/35469554/35026027-dd82e3ae-fb05-11e7-92e6-64774193095c.png)
 
 Due to github restrictions, the actual game was too big to push to the repo. 
-I am uploading it now, please check tomorrow for the file link here.
+To play, please download the game here ->
+https://drive.google.com/file/d/1oST5rnOM4RjzF-auQ7-7KVHNFJzagZ3U/view?usp=sharing
 
 Welcome to Felix & Leon Weingartner's Game Development and simulation programming game!
 Any problems, questions, or concerns please feel free to contact us at felix.weingartner@suusuccess.org
